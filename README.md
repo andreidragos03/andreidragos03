@@ -13,13 +13,12 @@
 | [photogift.ro](https://photogift.ro) | E-commerce for personalized photo gifts — live, built for a real client | React, Express, Prisma, PostgreSQL |
 | [aphrodite](https://github.com/andreidragos03/aphrodite) | Salon management CRM: online booking, Google Calendar sync, SMS/email | React, TypeScript, Express, Prisma, PostgreSQL |
 | [heartlink](https://github.com/andreidragos03/heartlink) | Clinic management platform: patients, appointments, medicines, payments & PDF reports | React, MUI, Express, Prisma, PostgreSQL |
-| [reformly](https://github.com/andreidragos03/reformly) | Gym & fitness studio management: classes, memberships, reservations, Stripe billing | React, Express, Prisma, MySQL, Stripe |
 | [veromath.ro](https://veromath.ro) | Math tutoring landing page — live | HTML/CSS/JS |
 | [attorney-iliescu](https://iliescu-avocatbucuresti.com) | Bilingual (RO/EN) website for a law firm — live, built for a real client | HTML/CSS/JS |
 
 ## Tech I work with
 
-`Python` `TypeScript` `React / Next.js` `Node.js` `FastAPI` `asyncio` `PostgreSQL` `MySQL` `Firebase` `Prisma` `Stripe` `LLM APIs (Anthropic)` `C/C++ (ESP32)`
+`Python` `TypeScript` `React / Next.js` `Node.js` `FastAPI` `asyncio` `PostgreSQL` `Firebase` `Prisma` `LLM APIs (Anthropic)` `C/C++ (ESP32)`
 
 ## Find me
 
