@@ -8,6 +8,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [asyncflow](https://github.com/andreidragos03/asyncflow) | Async job execution engine: concurrency limits, retries with backoff, cancellation, pluggable storage. 98% test coverage | Python, asyncio, pytest |
 | [esp32-weather-station](https://github.com/andreidragos03/esp32-weather-station) | Hardware-to-cloud weather station: firmware, gateway API, live dashboard | C++ (ESP32), Node.js, MongoDB |
 | [aphrodite](https://github.com/andreidragos03/aphrodite) | Salon management CRM: online booking, Google Calendar sync, SMS/email | React, TypeScript, Express, Prisma, PostgreSQL |
 | [heartlink](https://github.com/andreidragos03/heartlink) | Clinic management platform (Bachelor's thesis) | React, MUI, Express, Prisma, PostgreSQL |
@@ -15,7 +16,7 @@
 
 ## Tech I work with
 
-`Python` `TypeScript` `React / Next.js` `Node.js` `FastAPI` `PostgreSQL` `Firebase` `Prisma` `LLM APIs (Anthropic)` `C/C++ (ESP32)`
+`Python` `TypeScript` `React / Next.js` `Node.js` `FastAPI` `asyncio` `PostgreSQL` `Firebase` `Prisma` `LLM APIs (Anthropic)` `C/C++ (ESP32)`
 
 ## Find me
 
