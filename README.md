@@ -12,7 +12,7 @@
 | [weather_station](https://github.com/andreidragos03/weather_station) | Hardware-to-cloud weather station: firmware, gateway API, live dashboard | C++ (ESP32), Node.js, MongoDB |
 | [photogift.ro](https://photogift.ro) | E-commerce for personalized photo gifts — live, built for a real client | React, Express, Prisma, PostgreSQL |
 | [aphrodite](https://github.com/andreidragos03/aphrodite) | Salon management CRM: online booking, Google Calendar sync, SMS/email | React, TypeScript, Express, Prisma, PostgreSQL |
-| [heartlink](https://github.com/andreidragos03/heartlink) | Clinic management platform (Bachelor's thesis) | React, MUI, Express, Prisma, PostgreSQL |
+| [heartlink](https://github.com/andreidragos03/heartlink) | Clinic management platform: patients, appointments, medicines, payments & PDF reports | React, MUI, Express, Prisma, PostgreSQL |
 | [reformly](https://github.com/andreidragos03/reformly) | Gym & fitness studio management: classes, memberships, reservations, Stripe billing | React, Express, Prisma, MySQL, Stripe |
 
 ## Tech I work with
